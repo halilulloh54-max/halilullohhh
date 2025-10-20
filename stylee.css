@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+.div1{
+    width: 1273px;
+    height: 70px;
+    background-color: #272C3D;
+    color: white;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 30px;
+}
+.nav ul{
+    display: flex;
+    justify-content: space-between;
+    gap: 26px;
+}
+.li1{
+    color: #FF9C28;
+}
+.div2{
+    width: 241px;
+    height: 30px;
+    background-color: #404864;
+    padding-left: 200px;
+}
+.select{
+    width: 165px;
+    height: 30px;
+}
+
+.div3{
+    width: 1273px;
+    height: 554px;
+    margin: 0 auto;
+    background-image: url(Bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.div4{
+    width: 1273px;
+    height: 399px;
+    background-color: black;
+    margin: 0 auto;
+    color: white;
+}
+.h1{
+    text-align: center;
+    padding: 45px;
+    font-size: 32px;
+    font-weight: 400;
+}
+.img1{
+    padding-left: 143px;
+}
+.div5{
+    color: white;
+    width: 1273px;
+    height: 928px;
+    margin: 0 auto;
+    background-color: #1B1E27;
+}
+.h2{
+    padding-top: 61px;
+    padding-left: 292px;
+
+}
+.div6{
+    width: 760px;
+    height: 298px;
+    display: flex;
+    justify-content: space-between;
+    gap: 15px;
+    margin: 0 auto;
+}
+.div7{
+    width: 760px;
+    height: 298px;
+    display: flex;
+    justify-content: space-between;
+    gap: 15px;
+    margin: 18px auto;
+}
+.kotta{
+    width: 1273px;
+    height: 70px;
+    background-color: #272C3D;
+    color: white;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 30px;
+}
+.nav1 ul{
+    display: flex;
+    justify-content: space-between;
+    gap: 36px;
+}
